@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on arman&#39;s website</title>
-    <link>https://armanash.com/blog/</link>
+    <link>https://arman-ashrafian.github.io/blog/</link>
     <description>Recent content in Blogs on arman&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year} Arman Ashrafian</copyright>
     <lastBuildDate>Sun, 30 Aug 2020 14:07:24 -0700</lastBuildDate>
     
-	<atom:link href="https://armanash.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arman-ashrafian.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first blog post</title>
-      <link>https://armanash.com/blog/first.md/</link>
+      <link>https://arman-ashrafian.github.io/blog/first.md/</link>
       <pubDate>Sun, 30 Aug 2020 14:07:24 -0700</pubDate>
       
-      <guid>https://armanash.com/blog/first.md/</guid>
+      <guid>https://arman-ashrafian.github.io/blog/first.md/</guid>
       <description>why i started this blog I am starting this blog as a place to practice my writing skills. I have realized so far, in my short career, that techincal writing is a crucial skill for engineers. I also plan to use this blog as an outlet to document things I find interesting. Due to the nature of my interests, the topics I write about will most likely be related to programming, math, and business.</description>
     </item>
     
