@@ -6,7 +6,7 @@ description: "why i started a blog"
 keywords: []
 draft: false
 tags: []
-math: false 
+math: false
 toc: false
 ---
 
@@ -17,5 +17,4 @@ realized so far, in my short career, that techincal writing is a crucial skill
 for engineers. I also plan to use this blog as an outlet to document things I
 find interesting. Due to the nature of my interests, the topics I write about
 will most likely be related to programming, math, and business. 
-
 
